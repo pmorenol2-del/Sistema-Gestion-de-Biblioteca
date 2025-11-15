@@ -4,7 +4,7 @@
 El Sistema de Gestión de Biblioteca es una aplicación informática diseñada para optimizar la administración de recursos bibliográficos en instituciones pequeñas o medianas.  
 Permite registrar libros, gestionar préstamos y devoluciones, y generar reportes básicos.  
 Durante la evaluación se identificaron limitaciones como:
-- Ausencia de control de disponibilidad de libros.
+- Ausencia de control de disponibilidad de libros. 
 - Falta de registro de usuarios.
 - Reportes limitados y poco detallados.
 
