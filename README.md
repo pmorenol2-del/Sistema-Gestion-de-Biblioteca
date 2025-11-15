@@ -76,4 +76,4 @@ En este caso, aplicar control de versiones (ej. Git) garantizaría que las corre
 El Sistema de Gestión de Biblioteca requiere mejoras técnicas y organizativas para cumplir con los objetivos planteados.  
 La combinación de pruebas, mantenimiento correctivo y perfectivo, junto con un control de versiones disciplinado, asegura la evolución sostenible del software y su alineación con las necesidades reales de los usuarios.
 
-Última actualización: 7 de noviembre de 2025
+Última actualización: 15 de noviembre de 2025
