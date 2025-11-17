@@ -22,6 +22,7 @@ Su objetivo es permitir que los usuarios escriban texto plano con una sintaxis s
 
 ## 2. Ejemplo práctico de uso de Markdown
 
+### Encabezados
 # Encabezado nivel 1
 ## Encabezado nivel 2
 ### Encabezado nivel 3
@@ -40,7 +41,7 @@ Su objetivo es permitir que los usuarios escriban texto plano con una sintaxis s
 2. Paso dos
 3. Paso tres
 
-### Tablas
+## Tablas
 | Nombre   | Rol            | Estado   |
 |----------|----------------|----------|
 | Pablo    | Estudiante     | Activo   |
