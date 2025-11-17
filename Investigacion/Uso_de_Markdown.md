@@ -35,7 +35,7 @@ Su objetivo es permitir que los usuarios escriban texto plano con una sintaxis s
   - Sub-elemento B2
 
 
-** Lista ordenada**
+**Lista ordenada**
 1. Paso uno
 2. Paso dos
 3. Paso tres
