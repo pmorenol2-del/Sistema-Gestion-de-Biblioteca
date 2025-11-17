@@ -22,7 +22,7 @@ Su objetivo es permitir que los usuarios escriban texto plano con una sintaxis s
 
 ## 2. Ejemplo práctico de uso de Markdown
 
-### Encabezados
+## Encabezados
 # Encabezado nivel 1
 ## Encabezado nivel 2
 ### Encabezado nivel 3
@@ -48,10 +48,10 @@ Su objetivo es permitir que los usuarios escriban texto plano con una sintaxis s
 | Ana      | Desarrolladora | Inactivo |
 | Luis     | Tester         | Activo   |
 
-### Enlaces
+## Enlaces
 [Visita GitHub](https://github.com)
 
-### Imágenes
+## Imágenes
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
